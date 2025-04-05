@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ramodev6627
-- 👀 I’m interested in JavaScript, React and web dev in general
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in All things Game Dev
 - 📫 How to reach me : ramodev6627@gmail.com
 
 <!---
